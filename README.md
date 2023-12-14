@@ -29,6 +29,6 @@ node index.js
 
 3. Find the converted Excel file named `output.xlsx` in the project directory.
 
-4. The sheet named `start` is the first worksheet and all other worksheets can be visited for there.
+4. The sheet named `start` is the first worksheet and all other worksheets can be visited from there.
 
 Thank you !!!
